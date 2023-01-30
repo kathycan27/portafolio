@@ -1,0 +1,76 @@
+.cuadrado
+{
+    height: 70px;
+    width: auto;
+    background-color: rgb(114, 11, 59);
+}
+.imagen1
+{
+    height: 70px;
+    float:left;
+}
+.gif
+{
+    height: 70px;
+    width: fit-content;
+    float:right;
+}
+a
+{
+    position: relative;
+    top: 25px;
+    left: 100px;
+font-size: 20px;
+color: beige;
+text-align: center;
+padding-top: 0px;
+padding-right: 100px;
+padding-left: 100px;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+.foto
+{
+   height: 200px;
+   float: right;
+   
+}
+.info
+{
+font-size: 25px;
+text-align: left;
+}
+.estudios{
+    text-align: center;
+}
+.whatsapp
+{
+    height: 60px;
+    padding-left: 250px;
+}
+.instagram
+{
+    height: 60px;
+    padding-left:270px;
+}
+.replit
+{
+    height: 60px;
+    padding-left: 250px;
+}
+.github
+{
+    height: 60px;
+    padding-left:270px;
+}
+
+a.cont
+{
+    color: rgb(65, 14, 25);
+}
+footer
+{
+    text-align: center;
+}
